@@ -1,7 +1,7 @@
 # ParallelProgramming
 Basics of Parallel Programming labs.   
 
-Useful contacts:
+Useful contacts:    
 Адрес:
 630073, г. Новосибирск, пр-т К.Маркса, 20 (кафедра ВТ)     
 Расположение кафедры:    
