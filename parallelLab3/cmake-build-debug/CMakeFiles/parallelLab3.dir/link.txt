@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/Cellar/libevent/2.1.12/lib CMakeFiles/parallelLab3.dir/main.c.o -o parallelLab3  /usr/local/Cellar/open-mpi/4.1.0/lib/libmpi.dylib 

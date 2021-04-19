@@ -1,0 +1,3 @@
+/Users/captainmorgan/CLionProjects/parallelLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/captainmorgan/CLionProjects/parallelLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/captainmorgan/CLionProjects/parallelLab1/cmake-build-debug/CMakeFiles/parallelLab1.dir
